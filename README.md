@@ -1,4 +1,4 @@
-## Laravel Point of Sale
+## Laravel JMDM POS - PC PARTS & SERVICES
 
 ## Features
 - **Dashboard**
