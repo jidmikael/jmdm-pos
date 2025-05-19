@@ -4,7 +4,6 @@
 - **Dashboard**
 - **Orders**
   - Completed Orders
-  - Pending Due Payments
   - Stock Management
 - **Products**
   - Products
